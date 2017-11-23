@@ -1,0 +1,19 @@
+{
+  "window.zoomLevel": 0,
+  "editor.wordWrap": "on",
+  "workbench.iconTheme": "vscode-icons",
+  "files.associations": {
+    "*.js": "javascriptreact",
+    "*.scss": "scss",
+    "*.ejs": "html"
+  },
+  "vsicons.projectDetection.disableDetect": true,
+  "editor.renderIndentGuides": true,
+  "editor.tabSize": 2,
+  "auto-close-tag.activationOnLanguage": ["*", "javascriptreact"],
+  "editor.formatOnSave": true,
+  "workbench.colorTheme": "Material Theme",
+  "git.enableSmartCommit": true,
+  "eslint.autoFixOnSave": true,
+  "prettier.eslintIntegration": true
+}
