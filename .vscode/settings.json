@@ -15,5 +15,7 @@
   "workbench.colorTheme": "Material Theme",
   "git.enableSmartCommit": true,
   "eslint.autoFixOnSave": true,
-  "prettier.eslintIntegration": true
+  "prettier.eslintIntegration": true,
+  "vsicons.presets.jsOfficial": true,
+  "workbench.editor.enablePreview": false
 }
