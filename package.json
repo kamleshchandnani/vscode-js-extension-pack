@@ -1,42 +1,42 @@
 {
-    "name": "basic-js-extension-pack",
-    "displayName": "Basic JS Extension Pack",
-    "description": "A collection of extensions for working with Node, React, Vanilla JS applications along with git management extensions in VS Code.",
-    "version": "0.0.2",
-    "publisher": "kamleshchandnani",
-    "galleryBanner": {
-        "color": "#4a6370",
-        "theme": "dark"
-    },
-    "engines": {
-        "vscode": "^1.18.0"
-    },
-    "categories": [
-        "Extension Packs"
-    ],
-    "icon": "icon.png",
-    "extensionDependencies": [
-        "DavidAnson.vscode-markdownlint",
-        "Equinusocio.vsc-material-theme",
-        "akamud.vscode-javascript-snippet-pack",
-        "alessh.ReactSnippets",
-        "capaj.vscode-exports-autocomplete",
-        "christian-kohler.npm-intellisense",
-        "dbaeumer.vscode-eslint",
-        "donjayamanne.githistory",
-        "eamodio.gitlens",
-        "esbenp.prettier-vscode",
-        "felipecaputo.git-project-manager",
-        "formulahendry.auto-close-tag",
-        "gegeke.node-modules-navigation",
-        "hnw.vscode-auto-open-markdown-preview",
-        "joelday.docthis",
-        "michelemelluso.code-beautifier",
-        "robertohuertasm.vscode-icons",
-        "stevencl.addDocComments",
-        "waderyan.gitblame",
-        "whtouche.vscode-js-console-utils",
-        "wix.vscode-import-cost",
-        "xabikos.JavaScriptSnippets"
-    ]
+  "name": "basic-js-extension-pack",
+  "displayName": "Basic JS Extension Pack",
+  "description": "A collection of extensions for working with Node, React, Vanilla JS applications along with git management extensions in VS Code.",
+  "version": "0.0.2",
+  "publisher": "kamleshchandnani",
+  "galleryBanner": {
+    "color": "#4a6370",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.18.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "icon": "icon.png",
+  "extensionDependencies": [
+    "Equinusocio.vsc-material-theme",
+    "robertohuertasm.vscode-icons",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "shinnn.stylelint",
+    "prisma.vscode-graphql",
+    "wix.vscode-import-cost",
+    "formulahendry.auto-close-tag",
+    "coenraads.bracket-pair-colorizer",
+    "christian-kohler.npm-intellisense",
+    "hnw.vscode-auto-open-markdown-preview",
+    "xabikos.javascriptsnippets",
+    "pnp.polacode",
+    "wallabyjs.quokka-vscode",
+    "shan.code-settings-sync",
+    "eamodio.gitlens",
+    "felipecaputo.git-project-manager",
+    "waderyan.gitblame",
+    "github.vscode-pull-request-github",
+    "peterjausovec.vscode-docker",
+    "bmarkovic.haproxy",
+    "shanoor.vscode-nginx"
+  ]
 }
